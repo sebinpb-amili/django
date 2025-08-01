@@ -1,4 +1,8 @@
-pyenchant
-Sphinx>=4.5.0
-sphinxcontrib-spelling
-blacken-docs
+urllib3==2.0.7
+requests==2.31.0
+black==23.3.0
+zipp==3.15.0
+pyenchant==3.2.2
+Sphinx==5.3.0
+sphinxcontrib-spelling==8.0.0
+blacken-docs==1.14.0
